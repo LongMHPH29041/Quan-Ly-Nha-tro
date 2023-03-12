@@ -24,10 +24,6 @@ class DangNhap : AppCompatActivity() {
                 //Helooo
                 //helooo broduct
                 ////sdfhgbsd
-
-
-
-                ///gagagahjagdahsdgub H2clt
             }
         }
     }

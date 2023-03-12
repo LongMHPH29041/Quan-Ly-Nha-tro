@@ -39,6 +39,7 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this,""+name+" "+age,Toast.LENGTH_LONG).show()
 
                 //ph29041 heloooo
+                ////hihahahahahhaha thanh
             }
         }
 

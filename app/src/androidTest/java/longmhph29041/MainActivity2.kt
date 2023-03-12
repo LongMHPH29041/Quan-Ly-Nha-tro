@@ -10,5 +10,6 @@ class MainActivity2 : AppCompatActivity() {
         setContentView(R.layout.activity_main2)
         //hhhh
         //fffff
+        //ddd
     }
 }

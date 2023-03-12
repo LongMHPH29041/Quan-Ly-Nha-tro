@@ -37,6 +37,8 @@ class MainActivity : AppCompatActivity() {
                 binding.tvAge.setTextColor(Color.argb(255,0,0,255))
 
                 Toast.makeText(this,""+name+" "+age,Toast.LENGTH_LONG).show()
+
+                //ph29041 heloooo
             }
         }
 

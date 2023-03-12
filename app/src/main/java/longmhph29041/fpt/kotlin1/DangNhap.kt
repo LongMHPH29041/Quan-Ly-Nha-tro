@@ -26,7 +26,6 @@ class DangNhap : AppCompatActivity() {
                 ////sdfhgbsd
 
                 // Hello cu Long
-                ///thanhltph29166
             }
         }
     }

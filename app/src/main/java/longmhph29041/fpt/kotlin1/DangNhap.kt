@@ -21,6 +21,8 @@ class DangNhap : AppCompatActivity() {
             else{val intent = Intent(this,MainActivity::class.java)
                 startActivity(intent)
                 Toast.makeText(this,"Đăng nhập thành công",Toast.LENGTH_LONG).show()
+                //Helooo
+                //helooo broduct
             }
         }
     }
